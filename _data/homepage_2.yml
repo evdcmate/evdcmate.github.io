@@ -13,34 +13,36 @@ services:
   enable : true
   bg_image : "/assets/images/bg/feature-bg.png"
   item:
-  - name : "Brand Design"
+  - name : "Standard Service"
     icon : "ti-ruler-pencil"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content : "All-in-one EV charging solutions featuring AC and DC charge piles and stations."
     
-  - name : "Seo & Marketing"
+  - name : "ODM Service"
     icon : "ti-announcement"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content : "Our ODM service helps businesses develop and manufacture customized EV DC charge stations efficiently.."
     
-  - name : "Creative Design"
+  - name : "OEM Service"
     icon : "ti-palette"
-    content : "Lorem ipsum dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna."
+    content : "Empower your EV charging vision with custom OEM solutions: Reliable, Efficient and Tailored."
 
 ################## About ###########################
 about:
   enable : true
   subtitle : "About Us"
-  title : "We are Design & <br>Development Team."
+  title : "We are EV DC charge stations <br> Manufacturer & Provider."
   video_thumb : "/assets/images/about/about.jpg"
-  video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip commodo consequat.duis aute irure.
-  
+  #video_url : "https://www.youtube.com/watch?v=jrkvirglgaQ"
+  content : "EV DC Mate is a professional enterprise dedicated to the research and development of electric vehicle (EV) charging solutions. With a robust R&D team, we have established a comprehensive product line encompassing AC/DC equipment, intelligent AC/DC charging solutions, conversion technologies, and comprehensive customer support services.
 
-  Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.
-  "
+EV DC Mate is committed to providing exceptional products and tailored services to each customer. We aspire to be the most proficient and efficient EV charging manufacturer in the industry. Currently, our products are compatible with the majority of vehicle models worldwide, and we continuously update our offerings to ensure safe and efficient EV charging solutions.
+
+EV DC Mate delivers safe, reliable, and intelligent EV charging products and components to our global clients. Our offerings include EV plugs, sockets, connectors, chargers, and high-power DC charging stations. Our connectors are CE/UL/TUV/CB certified, and our products are widely distributed worldwide.
+
+EV DC Mate is your trusted partner for innovative and dependable EV charging solutions."
   button:
     enable : true
-    label : "Purchase now"
-    link : "/pricing"
+    label : "Get Quote"
+    link : "/contact"
 
 
 ###################### Funfacts #########################
