@@ -1,19 +1,19 @@
-baseurl: "/dizer-jekyll" # the subpath of your site, e.g. /blog
-url: "https://demo.themefisher.com" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
-title: "Dizer -  Multipurpose Business & Corporate Jekyll Template"
-email: "themefisher@gmail.com"
-phone: "+21 123 456 5523"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://evdcmate.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
+title: "Electrify Your Operations - EV DC Charging Solutions for a Greener Future"
+email: "info@evdcmate.com"
+phone: "+86 1615 2997"
 address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
-author: themefisher
+author: EVDCMATE
 description: >- # this means to ignore newlines
-  Dizer - Multipurpose Business & Corporate Jekyll Template Jekyll Theme For Mobile Apps Download Landing Page And Blogging.
+  EV DC Mate, DC Charge Stations for Sustainable EV Business.
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
-mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
+# mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
-copyright: "dizer. &copy; 2020 All Right Reserved"
+copyright: "EVDCMATE. &copy; 2023 All Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
 google_map_api: "https://maps.googleapis.com/maps/api/js?key=AIzaSyDnh74UN6BKgq9U5fMNGhdZOSpmM_QnZqs"
