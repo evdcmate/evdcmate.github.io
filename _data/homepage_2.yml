@@ -67,94 +67,94 @@ funfacts:
     value : "37"
 
 ###################### Skill #############################
-skill:
-  enable : true
-  subtitle : "our skill"
-  title : "We are Design & Development Team."
-  image : "/assets/images/about/skill.jpg"
-  item:
-  - name : "Branding"
-    percentage : "85%"
-    
-  - name : "Consulting"
-    percentage : "90%"
-    
-  - name : "Business"
-    percentage : "75%"
-    
-  - name : "Promotion"
-    percentage : "95%"
-
-
-######################### Testimonail ####################
-testimonial:
-  enable : true
-  subtitle : "testimonials"
-  title : "Our Clients Say"
-  item:
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-1.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-2.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-3.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-1.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-2.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/test-3.jpg"
-    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
-
-
-###################### Clients ######################
-clients:
-  enable : true
-  logos:
-    - "/assets/images/clients/client-1.png"
-    - "/assets/images/clients/client-2.png"
-    - "/assets/images/clients/client-3.png"
-    - "/assets/images/clients/client-4.png"
-    - "/assets/images/clients/client-5.png"
-    - "/assets/images/clients/client-1.png"
-    - "/assets/images/clients/client-2.png"
-    - "/assets/images/clients/client-3.png"
-    - "/assets/images/clients/client-4.png"
-    - "/assets/images/clients/client-5.png"
-    
-
-###################### Team ######################
-team:
-  enable : true
-  item:
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/team-1.jpg"
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/team-2.jpg"
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/team-3.jpg"
-    
-  - name : "Liam Hughes"
-    designation : "Manager"
-    image : "/assets/images/team/team-4.jpg"
+#skill:
+#  enable : true
+#  subtitle : "our skill"
+#  title : "We are Design & Development Team."
+#  image : "/assets/images/about/skill.jpg"
+#  item:
+#  - name : "Branding"
+#    percentage : "85%"
+#    
+#  - name : "Consulting"
+#    percentage : "90%"
+#    
+#  - name : "Business"
+#    percentage : "75%"
+#    
+#  - name : "Promotion"
+#    percentage : "95%"
+#
+#
+########################## Testimonail ####################
+#testimonial:
+#  enable : true
+#  subtitle : "testimonials"
+#  title : "Our Clients Say"
+#  item:
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/test-1.jpg"
+#    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/test-2.jpg"
+#    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/test-3.jpg"
+#    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/test-1.jpg"
+#    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/test-2.jpg"
+#    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/test-3.jpg"
+#    content : "Lorem ipsum dolor amet constur adipisicing elit sed eiusmtempor incid dolore magna aliqu. enim minim	veniam."
+#
+#
+####################### Clients ######################
+#clients:
+#  enable : true
+#  logos:
+#    - "/assets/images/clients/client-1.png"
+#    - "/assets/images/clients/client-2.png"
+#    - "/assets/images/clients/client-3.png"
+#    - "/assets/images/clients/client-4.png"
+#    - "/assets/images/clients/client-5.png"
+#    - "/assets/images/clients/client-1.png"
+#    - "/assets/images/clients/client-2.png"
+#    - "/assets/images/clients/client-3.png"
+#    - "/assets/images/clients/client-4.png"
+#    - "/assets/images/clients/client-5.png"
+#    
+#
+####################### Team ######################
+#team:
+#  enable : true
+#  item:
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/team-1.jpg"
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/team-2.jpg"
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/team-3.jpg"
+#    
+#  - name : "Liam Hughes"
+#    designation : "Manager"
+#    image : "/assets/images/team/team-4.jpg"
