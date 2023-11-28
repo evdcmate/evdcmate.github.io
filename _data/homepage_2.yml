@@ -1,8 +1,8 @@
 ################## Hero Area #######################
 hero_area:
-  title : "Design Studio"
-  image : "/assets/images/banner/banner-3.png"
-  content : "Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna.<br>aliqua enim ad minim veniam quis."
+  title : "EV DC Mate"
+  image : "/assets/images/banner/charger-banner.png"
+  content : "Power Up Your Fleet<br>DC Charge Stations for Businesses"
   button:
     enable : true
     label : "Contact Us"
