@@ -2,7 +2,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://evdcmate.github.io" # the base hostname & protocol for your site, e.g. http://example.com or  https://Dizerjk.netlify.com
 title: "Electrify Your Operations - EV DC Charging Solutions for a Greener Future"
 email: "info@evdcmate.com"
-phone: "+86 1615 2997"
+phone: "+86 186 1615 2997"
 address: "9567 Turner Trace Apt. 466 North Willie, BC C3G8A4"
 author: EVDCMATE
 description: >- # this means to ignore newlines
@@ -12,7 +12,7 @@ logo_icon: "/assets/images/logo-b.png"
 # contact form action
 contact_form_action: "#" # works with https://fomrspree.io
 # mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
-footer_content: "Lorem ipsum dolor amet consectetur adipielit sed eiusm tempor incididunt ut labore dolore magna aliqua enim ad minim veniam."
+footer_content: "We aspire to be the most proficient and efficient EV charging manufacturer in the industry."
 copyright: "EVDCMATE. &copy; 2023 All Right Reserved"
 # page header default image
 cover_image: "/assets/images/bg/about-bg.jpg"
