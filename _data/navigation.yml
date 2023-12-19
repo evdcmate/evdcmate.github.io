@@ -3,9 +3,9 @@ main:
   - name: Home
     url: /index.html
   - name: Products
-    url: /portfolio-2.html
+    url: /products.html
   - name: Why Us
-    url: /services.html
+    url: /why-us.html
 #    submenu:
 #      - name: Services #why us
 #        url: /services.html
@@ -14,7 +14,7 @@ main:
   - name: About
     url: /about.html
   - name: Blog
-    url: /blog-1.html
+    url: /blog.html
   - name: Contact
     url: /contact.html
 
