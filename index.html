@@ -12,3 +12,6 @@ layout: default
 {% include clients.html %}
 {% include team.html %}
 {% include blog.html %}
+{% for product in site.products %}
+ {% include product.html %}
+{% endfor %}

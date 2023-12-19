@@ -60,11 +60,11 @@ funfacts:
     
   - name : "Happy customers"
     icon : "ti-heart"
-    value : "5000"
+    value : "1000+"
     
   - name : "awards win"
     icon : "ti-cup"
-    value : "37"
+    value : "22"
 
 ###################### Skill #############################
 #skill:
