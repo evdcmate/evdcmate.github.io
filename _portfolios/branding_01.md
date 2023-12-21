@@ -23,14 +23,14 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 				<img src="/assets/images/portfolio/portfolio-single.jpg" alt="" class="img-fluid">
 			</div>
 		</div>
-		 <div class="text-center mt-4">
+		<div class="text-center mt-4">
 		 	<a class="control-prev" href="#single-slide" role="button" data-slide="prev">
 			    <span class="fa fa-long-arrow-alt-left" aria-hidden="true"></span>
-			  </a>
-			  <a class="control-next" href="#single-slide" role="button" data-slide="next">
+			</a>
+			<a class="control-next" href="#single-slide" role="button" data-slide="next">
 			    <span class="fa fa-long-arrow-alt-right" aria-hidden="true"></span>
-			  </a>
-		 </div>
+			</a>
+		</div>
 	</div>
 </div>
 <div class="col-lg-8 text-center mt-5">
@@ -69,5 +69,4 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 				<a href="#"><i class="ti-linkedin"></i></a>
 			</li>
 		</ul>
-	</div>
 </div>
