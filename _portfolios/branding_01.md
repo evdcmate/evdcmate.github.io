@@ -8,8 +8,7 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 <div class="col-lg-8 text-center">
 	<h3 class="mb-5 mt-2">{{page.title}}</h3>
 	<p>{{page.description}}</p>
-
-<hr class="my-5">
+</div>
 
 <div class="col-lg-12 mt-5">
 	<div class="carousel slide" id="single-slide">
@@ -37,6 +36,9 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 <div class="col-lg-8 text-center mt-5">
 	<p>Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat.duis aute irure sint occae cat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed perspiciatis unde omnis iste natus error sit voluptatem.</p>
 </div>
+
+<hr class="my-5">
+
 <div class="row">
 		<div class="col-lg-4 text-center">
 			<p class="text-color font-weight-bold mb-2">Clients</p>
