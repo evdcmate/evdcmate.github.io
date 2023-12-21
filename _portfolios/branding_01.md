@@ -26,25 +26,6 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 		</div>
 	</div>
 
-<div class="post-single-share py-4 mt-4 mb-5">
-		<h6 class="text-white">Share This on</h6>
-		<ul class="list-inline socials-links mb-0">
-			<li class="list-inline-item">
-				<a href="#" class="active"><i class="ti-facebook"></i></a>
-			</li>
-			<li class="list-inline-item">
-				<a href="#"><i class="ti-twitter"></i></a>
-			</li>
-			<li class="list-inline-item">
-				<a href="#"><i class="ti-vimeo"></i></a>
-			</li>
-			<li class="list-inline-item">
-				<a href="#"><i class="ti-linkedin"></i></a>
-			</li>
-		</ul>
-	</div>
-</div>
-
 <div class="col-lg-12 mt-5">
 	<div class="carousel slide" id="single-slide">
 		<div class="carousel-inner">
@@ -70,4 +51,23 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 </div>
 <div class="col-lg-8 text-center mt-5">
 	<p>Dolor sit amet consectetur elit sed do eiusmod tempor incididunt labore et dolore magna aliqua enim minim veniam quis nostrud exercitation ullamco laboris nisi aliquip commodo consequat.duis aute irure sint occae cat cupidatat non proident sunt in culpa qui officia deserunt mollit anim id est laborum. Sed perspiciatis unde omnis iste natus error sit voluptatem.</p>
-</div>													
+</div>
+
+<div class="post-single-share py-4 mt-4 mb-5">
+		<h6 class="text-white">Share This on</h6>
+		<ul class="list-inline socials-links mb-0">
+			<li class="list-inline-item">
+				<a href="#" class="active"><i class="ti-facebook"></i></a>
+			</li>
+			<li class="list-inline-item">
+				<a href="#"><i class="ti-twitter"></i></a>
+			</li>
+			<li class="list-inline-item">
+				<a href="#"><i class="ti-vimeo"></i></a>
+			</li>
+			<li class="list-inline-item">
+				<a href="#"><i class="ti-linkedin"></i></a>
+			</li>
+		</ul>
+	</div>
+</div>
