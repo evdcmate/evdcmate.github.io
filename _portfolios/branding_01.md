@@ -40,7 +40,7 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 
 <hr class="my-5">
 
-<div class="col-lg-12 text-center mt-5">
+<div class="row">
 	<div class="col-lg-4 text-center">
 		<p class="text-color font-weight-bold mb-2">Clients</p>
 		<p>Christopher Ronald</p>
