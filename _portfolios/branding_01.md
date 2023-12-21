@@ -53,7 +53,9 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 			<p>780 Lynnway, Lynn MA 1905</p>
 		</div>
 </div>
-<div class="post-single-share py-4 mt-4 mb-5">
+
+<div class="col-lg-8 text-center mt-5">
+	<div class="post-single-share py-4 mt-4 mb-5">
 		<h6 class="text-white">Share This on</h6>
 		<ul class="list-inline socials-links mb-0">
 			<li class="list-inline-item">
@@ -69,4 +71,5 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 				<a href="#"><i class="ti-linkedin"></i></a>
 			</li>
 		</ul>
+	</div>
 </div>
