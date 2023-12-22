@@ -13,7 +13,6 @@ description: "tempor incididunt labore et dolore magna aliqua enim minim veniam 
 	<h3 class="mb-5 mt-2">{{page.title}}</h3>
 	<p>{{page.description}}</p>
 
-
 <div class="col-lg-12 mt-5">
 	<div class="carousel slide" id="single-slide">
 		<div class="carousel-inner">
