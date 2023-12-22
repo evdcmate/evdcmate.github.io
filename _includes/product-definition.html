@@ -9,7 +9,7 @@
       data-item-price="{{ product.price }}"
       data-item-image="{{ product.image }}"
       data-item-url="https://www.evdcmate.com{{ page.url }}"
-      data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
+      data-item-description="{{ product.description | remove: '<p>' | remove: '</p>' }}">
       Add to cart (${{ product.price }})
     </button>
   </div>
