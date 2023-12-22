@@ -9,13 +9,13 @@
       data-item-price="{{ product.price }}"
       data-item-image="{{ product.image }}"
       data-item-url="https://www.evdcmate.com{{ page.url }}"
-      data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}"
-      data-item-custom1-name="Frame color"
-      data-item-custom1-options="Black|Brown|Gold[+300.00]">
+      data-item-description="{{ product.content | remove: '<p>' | remove: '</p>' }}">
       Add to cart (${{ product.price }})
     </button>
   </div>
-  
+
+//      data-item-custom1-name="Frame color"
+//      data-item-custom1-options="Black|Brown|Gold[+300.00]">
   
   {% if product.file_guid %}
   <button
