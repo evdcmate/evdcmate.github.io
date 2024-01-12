@@ -50,8 +50,12 @@ permalink: "/:title"
 markdown: kramdown
 plugins:
   - jekyll-feed
+  - jekyll-postcss
   - jekyll-paginate-v2
   - jekyll-archives
+
+postcss:
+  cache: false
 
 # Scss Directory
 sass:

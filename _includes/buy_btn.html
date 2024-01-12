@@ -1,0 +1,33 @@
+<div class="mt-5 sm:flex sm:items-center">
+  <div class="">
+    <label for="{{ page.identifier }}-qty" class="sr-only">Quantity:</label>
+    <input type="number" id="{{ page.identifier }}-qty" class="qty block rounded-md border-0 py-1.5 text-gray-900 shadow-sm ring-1 ring-inset ring-gray-300 placeholder:text-gray-400 focus:ring-2 focus:ring-inset focus:ring-indigo-600 sm:text-sm sm:leading-6" min="1" value="1" />
+  </div>
+  <button
+    class="buy-button snipcart-add-item mt-0 inline-flex w-full items-center justify-center rounded-md bg-indigo-600 px-3 py-2 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600 sm:ml-6"
+    data-item-quantity="1"
+    data-item-id="{{ page.identifier }}"
+    data-item-name="{{ page.name }}"
+    data-item-price="{{ page.price }}"
+    data-item-image="{{ page.image }}"
+    data-item-url="https://evdcmate.github.io/{{ page.url }}"
+    data-item-description="{{ page.description}}"
+    data-item-custom1-name="Your Account"
+    data-item-custom1-type="textarea">
+    Add to cart (${{ page.price }})
+  </button>
+</div>
+
+{% if page.file_guid %}
+<button
+  class="buy-button snipcart-add-item"
+  data-item-id="{{ page.identifier }}-DIGITAL"
+  data-item-file-guid="{{ page.file_guid }}"
+  data-item-name="{{ page.name}} - Digital copy (JPG)"
+  data-item-price="{{ page.price | minus: 20 }}"
+  data-item-image="{{ page.image }}"
+  data-item-url="https://demo.snipcart.com{{ page.url }}"
+  data-item-description="{{ page.content | remove: '<p>' | remove: '</p>' }}">
+  Subscribe (${{ page.price | minus: 20 }})
+</button>
+{% endif %}

@@ -1,8 +1,8 @@
 ---
-layout: portfolio
+layout: product_overviews
 title: "New Branding"
 categories: ["Branding"]
-thumbnail: "/assets/images/portfolio/p-3.jpg"
+thumbnail: "/assets/images/portfolio/p-4.jpg"
 identifier: jekyll-idea-2
 name: Concept2
 price: 19.99

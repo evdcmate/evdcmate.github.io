@@ -1,8 +1,19 @@
 ---
 layout: default
+header_image: "/assets/images/bg/bg-portfolio.jpg"
+product_list_name: Product List
 ---
 
-{% include header.html %}
-{% for product in site.products %}
+{% include page_header.html %}
+<!-- Portfolio  Start -->
+<section class="section1 portfolio-51">
+  <div class="container-fluid">
+    <!-- <div class="row shuffle-wrapper portfolio-gallery"> -->
+      {% include product_lists.html %}
+    <!-- </div> -->
+	</div>
+</section>
+<!-- Portfolio  End -->
+<!-- {% for product in site.products %}
  {% include product.html %}
-{% endfor %}
+{% endfor %} -->
