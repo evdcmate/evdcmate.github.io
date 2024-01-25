@@ -10,7 +10,7 @@ description: >- # this means to ignore newlines
 logo: "/assets/images/logo.png"
 logo_icon: "/assets/images/logo-b.png"
 # contact form action
-contact_form_action: "#" # works with https://fomrspree.io
+contact_form_action: "https://fomrspree.io/f/xdorvzrv" # works with https://fomrspree.io
 # mailchimp_list: "https://themeix.us16.list-manage.com/subscribe/post?u=307862c135e4548eecf86f389&amp;id=342411fb35"
 footer_content: "We aspire to be the most proficient and efficient EV charging manufacturer in the industry."
 copyright: "EVDCMATE. &copy; 2023 All Right Reserved"
